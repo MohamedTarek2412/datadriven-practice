@@ -8,7 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/deep_carp_2626), committed
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
-| [Above Average Interactions](./practice/sql/above-average-interactions) | SQL | Easy | 2026-10-09 |
+| [Above Average Interactions](./practice/sql/above-average-interactions) | SQL | Medium | 2026-10-09 |
 
 <!-- datadriven:index:end -->
 
